@@ -9,4 +9,4 @@ The modification is explained in the notebook itself.
   ### LSTM
 I used LSTM because it was a time series data but it did not provide me with satisfying result. I used exponential smothing on top of the modification.
   ### RBM+LSTM
-I refered a [research](Remaining Useful Life Predictions for Turbofan Engine Degradation Using Semi-Supervised Deep Architecture) paper and tried to recreate the model that was explained in the published paper. It also did not provide me with a satifying result
+I refered a [research paper](https://www.sciencedirect.com/science/article/pii/S0951832018307506) and tried to recreate the model that was explained in the published paper. It also did not provide me with a satifying result
